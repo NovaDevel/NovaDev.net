@@ -1449,4 +1449,18 @@
 		width: calc(33.33333% - 2.5em);
 	}
 
-		
+
+
+/* Desktop */
+.mobile {
+	display: none;
+}
+
+/* Mobile */
+@media only screen and (max-device-width : 480px){
+	.mobile{
+		display: block;
+	}
+	.desktop{
+		display:none;
+	}
