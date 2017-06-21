@@ -384,6 +384,13 @@
 		font-size: 2.5em;
 		line-height: 1.25em;
 	}
+		.A {color: #365f91;
+		      font-family: "Swis721 Blk BT";
+		  }
+
+		.B {font-style: italic;
+		      font-family: "Swis721 BT";
+		}
 
 	h2 {
 		font-size: 1.75em;
